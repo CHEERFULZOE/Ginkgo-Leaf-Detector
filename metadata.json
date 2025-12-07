@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Ginkgo Guard - 银杏观赏助手",
+  "description": "智能识别银杏叶颜色，为您精准判断最佳观赏时期。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
